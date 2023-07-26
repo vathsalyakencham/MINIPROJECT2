@@ -62,7 +62,7 @@ nav ul li a:hover{
 .details h1{
     font-size:50px;
     margin-bottom: 20px;
-    color: yellow;
+    color: white;
     font-family: purisa;
 
 }
@@ -107,7 +107,7 @@ span{
 .images img{
     height:50%;
     position: absolute;
-    left:60%;
+    left:70%;
     bottom: 0px;
     transform: translatex(-50%);
     transition: bottom 1s, left 1s;
@@ -120,5 +120,5 @@ span{
 }
 
 .images:hover .girl{
-    left:50%;
+    left:60%;
 }
