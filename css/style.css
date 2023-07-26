@@ -32,7 +32,7 @@ nav{
     margin:auto;
     padding:20px 0;
     align-items: center;
-    justify-content: space-between;
+    /*justify-content: space-between;*/
 
 }
 nav ul li{
@@ -62,7 +62,7 @@ nav ul li a:hover{
 .details h1{
     font-size:50px;
     margin-bottom: 20px;
-    color: white;
+    color: black;
     font-family: purisa;
 
 }
